@@ -17,6 +17,7 @@
 			<a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'spun' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'spun' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
 			<?php printf( __( '%1$s by %2$s.', 'spun' ), '<a href="http://carolinemoore.net/" rel="designer">Spun', 'Caroline Moore</a>' ); ?>
+			<span> | Moded by MWender</span>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
 </div><!-- #page .hfeed .site -->
