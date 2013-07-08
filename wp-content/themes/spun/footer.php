@@ -19,6 +19,7 @@
 			<?php printf( __( '%1$s by %2$s.', 'spun' ), '<a href="http://carolinemoore.net/" rel="designer">Spun', 'Caroline Moore</a>' ); ?>
 			<span> | Moded by MWender</span>
 			<span> | Another Mod by MWender</span>
+			<span> | 3rd Mod by MWender</span>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
 </div><!-- #page .hfeed .site -->
